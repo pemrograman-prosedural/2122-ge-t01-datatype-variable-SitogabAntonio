@@ -5,3 +5,4 @@ melakukan percobaan pertama. t01 dan 02
 melakukan percobaan pertama untuk keseluruhan
 melakukan percobaan untuk keseluruhan kedua kali
 melakukan percobaan untuk keseluruhan ketiga kali
+melakukan percobaan. t03
