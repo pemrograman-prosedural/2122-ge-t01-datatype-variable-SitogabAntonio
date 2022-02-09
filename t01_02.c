@@ -15,10 +15,10 @@ scanf("%f",&q);
 scanf("%f",&s);
 
 	hasil = p + q + r + s;
-	printf("%.3f\n", hasil);
+	printf("%0.3f\n", hasil);
 
 	rata= hasil / 4;
-	printf("%.3f", rata);
+	printf("%0.3f", rata);
 
   return 0;
 }
