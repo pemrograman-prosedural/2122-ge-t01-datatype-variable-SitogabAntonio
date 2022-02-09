@@ -13,6 +13,7 @@ int main(int _argv, char **_argc)
   hasil = x >> y;
   printf("%d\n", hasil);
 
+
   printf(": ");
   scanf("%d", &z);
   a = hasil;

@@ -9,6 +9,7 @@ int main(){
 	
 	float p, q, r, s, hasil, rata;
 	
+  
 scanf("%f",&r);
 scanf("%f",&p);
 scanf("%f",&q);
