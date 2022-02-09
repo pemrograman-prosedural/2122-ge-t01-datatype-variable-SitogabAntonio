@@ -16,7 +16,7 @@ int main(int _argv, char **_argc)
   printf(": ");
   scanf("%d", &z);
   a = hasil;
-  b = a >= z;
+  b = a == z;
   printf("%d\n", b);
 
 

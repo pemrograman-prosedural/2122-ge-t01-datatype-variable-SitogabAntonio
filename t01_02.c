@@ -20,5 +20,6 @@ scanf("%f",&s);
 	rata= hasil / 4;
 	printf("%0.3f", rata);
 
+
   return 0;
 }

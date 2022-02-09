@@ -19,5 +19,6 @@ int main (int _argv, char **_argc)
 
       printf ("%d\n%c\n%d\n%0.3f\n", num, ch, num2, num3);
 
+
   return 0;
 }
