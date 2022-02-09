@@ -6,7 +6,7 @@
 int main (int _argv, char **_argc)
 {
 
-    int num;
+      int num;
       char ch;
       int num2;
       float num3;

@@ -3,13 +3,12 @@
 
 #include <stdio.h>
 
-int main(){
-	
-	int main(){
+int main(int _argv, char **_argc)
+{
 	
 	float p, q, r, s, hasil, rata;
 	
-  
+
 scanf("%f",&r);
 scanf("%f",&p);
 scanf("%f",&q);

@@ -5,20 +5,16 @@
 
 int main(int _argv, char **_argc)
 {
-  int x, y, z, a, b, hasil;
-  printf(": ");
+  int x, y, z, a, b;
+  
   scanf("%d", &x);
-  printf(": ");
+  
   scanf("%d", &y);
-  hasil = x >> y;
-  printf("%d\n", hasil);
-
-
-  printf(": ");
   scanf("%d", &z);
-  a = hasil;
+  a = x >> y;
+
   b = a == z;
-  printf("%d\n", b);
+  printf("%d\n%d\n", a, b);
 
 
   return 0;
