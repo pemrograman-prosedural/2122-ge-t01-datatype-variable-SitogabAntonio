@@ -5,11 +5,11 @@
 
 int main (int _argv, char **_argc)
 {
-  
+
     int num;
       char ch;
       int num2;
-      float num3
+      float num3;
 
       scanf ("%d", &num);
       scanf (" %c", &ch);
