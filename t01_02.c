@@ -25,5 +25,6 @@ scanf("%f",&s);
 
 
 
+
   return 0;
 }
