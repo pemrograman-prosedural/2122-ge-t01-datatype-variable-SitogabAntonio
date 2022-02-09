@@ -8,8 +8,6 @@ int main(){
 	int main(){
 	
 	float p, q, r, s, hasil, rata;
-
-	
 	
 scanf("%f",&r);
 scanf("%f",&p);
@@ -21,7 +19,6 @@ scanf("%f",&s);
 
 	rata= hasil / 4;
 	printf("%.3f", rata);
-
 
   return 0;
 }
