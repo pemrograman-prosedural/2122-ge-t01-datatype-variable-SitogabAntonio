@@ -5,26 +5,22 @@
 
 int main(){
 	
+	int main(){
+	
 	float p, q, r, s, hasil, rata;
 
-
-printf("masukan angka: ");
+	
+	
 scanf("%f",&r);
-printf("masukan angka ");
 scanf("%f",&p);
-printf("masukan angka ");
 scanf("%f",&q);
-printf("masukan angka ");
 scanf("%f",&s);
 
 	hasil = p + q + r + s;
-	printf("hasil nya adalah = %f\n", hasil);
+	printf("%.3f\n", hasil);
 
 	rata= hasil / 4;
-	printf("rata-rata adalah = %f", rata);
-
-
-
+	printf("%.3f", rata);
 
   return 0;
 }

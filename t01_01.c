@@ -15,9 +15,10 @@ int main (int _argv, char **_argc)
       scanf (" %c", &ch);
       scanf ("%d", &num2);
       scanf ("%f", &num3);
-      
+
 
       printf ("%d\n%c\n%d\n%.3f\n", num, ch, num2, num3);
+  
   
   return 0;
 }
