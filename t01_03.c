@@ -6,18 +6,18 @@
 int main(int _argv, char **_argc)
 {
   int x, y, z, a, b, hasil;
-  printf("masukkan angka: ");
+  printf(": ");
   scanf("%d", &x);
-  printf("masukkan angka: ");
+  printf(": ");
   scanf("%d", &y);
   hasil = x >> y;
-  printf("Right shifted by y = %d\n", hasil);
+  printf("%d\n", hasil);
 
-  printf("masukkan angka: ");
+  printf(": ");
   scanf("%d", &z);
   a = hasil;
   b = a >= z;
-  printf("equality operation = %d\n", b);
+  printf("%d\n", b);
 
   
   return 0;
